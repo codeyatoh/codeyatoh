@@ -22,8 +22,8 @@
 
 </div>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
+<!-- Divider - Cyan Blue Wave -->
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
 
 </div>
 
@@ -59,7 +59,7 @@ const angelito = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
 
@@ -86,22 +86,35 @@ const angelito = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=codeyatoh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeyatoh&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+<a href="https://github.com/codeyatoh">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeyatoh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/codeyatoh">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeyatoh&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+</a>
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeyatoh&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+<a href="https://github.com/codeyatoh">
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codeyatoh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
+<a href="https://github.com/codeyatoh">
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=codeyatoh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" alt="GitHub Trophies"/>
+</a>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeyatoh&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&custom_title=Contribution%20Timeline" alt="Contribution Graph" width="95%"/>
+<p align="center">
+<a href="https://github.com/codeyatoh">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeyatoh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&area_color=00d9ff&custom_title=Contribution%20Timeline" alt="Contribution Graph"/>
+</a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Current Focus
 
@@ -128,35 +141,35 @@ const angelito = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> When I'm Not Coding...
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216649426-3c9e4263-28ff-4c7a-9c34-f8cc4ad24520.gif" width="80"/>
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80"/>
 <br><br>
 <b>📺 Anime Enthusiast</b>
 <br>
 <sub>One Piece, AOT, JJK</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="80"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzljZjVkOWMyYmJkYmE0NWY2ZDk5NWM4NzVjMzJkYTk5NTg5YjJmZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/SWoRKslHVtqEasqYCJ/giphy.gif" width="80"/>
 <br><br>
 <b>🎮 Gaming</b>
 <br>
 <sub>RPGs & Strategy Games</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="80"/>
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80"/>
 <br><br>
 <b>🎨 UI/UX Design</b>
 <br>
 <sub>Figma & Design Systems</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="80"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjB2OGNzODN4MWN1aWZ4NGk2ZjRiZWduaWRrMXJyYmtzY2lhYzJjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/fwbZnTftCXVocKzfxR/giphy.gif" width="80"/>
 <br><br>
 <b>🎵 Music</b>
 <br>
@@ -165,7 +178,7 @@ const angelito = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Divider">
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="25"> Connect With Me
 
@@ -196,16 +209,16 @@ const angelito = {
 <br>
 
 <!-- Snake Animation -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeyatoh/codeyatoh/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeyatoh/codeyatoh/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codeyatoh/codeyatoh/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <br><br>
 
 <!-- Dynamic Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
 
 <br><br>
 
