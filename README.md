@@ -32,7 +32,7 @@
 ```typescript
 const angelito = {
     role: "Full Stack Engineer",
-    location: "📍 Midsayap, Mindanao, Philippines",
+    location: "📍 Zamboanga City, Mindanao, Philippines",
     timezone: "Asia/Manila (GMT+8)",
     
     currentlyWorkingOn: [
